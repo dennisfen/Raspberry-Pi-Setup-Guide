@@ -322,7 +322,7 @@ asdf install ruby 2.6.4 # or whatever you need
 
 If you want to use ZSH
 ```bash
-sudo usermod -s /usr/bin/zsh
+sudo usermod -s /usr/bin/zsh $USER
 ```
 
 Additionally you may want to clone and setup your personal dotfiles.
